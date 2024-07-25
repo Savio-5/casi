@@ -14,7 +14,7 @@ export default function Home() {
         <section className="flex flex-col items-center justify-center">
           <img className="mask mask-squircle" src="/casi_pizza.jpg" alt="Casi Pizza" />
           <h1 className="text-5xl font-bold mt-6">Bye Bye Pilu!</h1>
-          <p className="py-6 text-2xl font-[cursive]">Friend</p>
+          <p className="py-6 text-2xl font-[cursive]">Your Bestest Friend</p>
         </section>
 
         {/* Bottom left flower image */}
